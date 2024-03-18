@@ -20,6 +20,7 @@
   <img src="./images/reactjs.svg" width="40" height="40" alt="react" />
 	<img src="./images/nodejs.svg" width="40" height="40" alt="node" />
 	<img src="./images/next.svg" width="40" height="40" alt="next" />
+  <img src="./images/webpack.svg" width="40" height="40" alt="webpack" />
 	<img src="./images/vite.svg" width="40" height="40" alt="vite" />
 	<img src="./images/pixi.svg" width="40" height="40" alt="pixi" />
 </div>
