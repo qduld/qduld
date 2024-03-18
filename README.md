@@ -11,7 +11,7 @@
 - 📝 I regulary write articles on my personal website
 - 📫 relation me 490334843@qq.com
 
-## 🚀 Language And Tools
+## 🚀 Language And Tools And
 
 <div align="center" >
 	<img src="./images/javascript.svg" width="40" height="40" alt="javascript" />
@@ -23,6 +23,5 @@
   <img src="./images/webpack.svg" width="40" height="40" alt="webpack" />
 	<img src="./images/vite.svg" width="40" height="40" alt="vite" />
 	<img src="./images/pixi.svg" width="40" height="40" alt="pixi" />
-  <img src="./images/wsj.svg" width="40" height="40" alt="wsj" />
-  <img src="./images/eth.svg" width="40" height="40" alt="eth" />
+  <img src="./images/solidity.svg" width="40" height="40" alt="solidity" />
 </div>
