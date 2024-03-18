@@ -1,1 +1,29 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=qduld&show_icons=true&theme=transparent)
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="3%">Hey! here
+
+### I'm ** qduld **, a frontend developer from China.
+[<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=qduld&show_icons=true&theme=transparent&show_icons=true">](https://metrics.lecoq.io/about/dongyuanwai)
+
+-   🌏 I’m come from China
+-   🛠  I’m currently working use canvas and next.js
+-   🌱 I’m currently learning about Web3 and English
+-   🔭 Doing something about open source
+-   📝 I regulary write articles on my personal website
+-   📫 relation me 490334843@qq.com
+
+
+
+## 🚀 Language And Tools
+
+<div align="center" >
+	<img src="./images/javascript.svg" width="40" height="40" alt="javascript" />
+	<img src="./images/typescript.svg" width="40" height="40" alt="typescript" />
+	<img src="./images/vuejs.svg" width="40" height="40" alt="vue" />
+  <img src="./images/vuejs.svg" width="40" height="40" alt="react" />
+	<img src="./images/nodejs.svg" width="40" height="40" alt="node" />
+	<img src="./images/next.svg" width="40" height="40" alt="next" />
+	<img src="./images/react.svg" width="40" height="40" alt="vite" />
+	<img src="./images/pixi.svg" width="40" height="40" alt="pixi" />
+</div>
+
+
+
