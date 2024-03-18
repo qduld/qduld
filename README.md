@@ -23,4 +23,6 @@
   <img src="./images/webpack.svg" width="40" height="40" alt="webpack" />
 	<img src="./images/vite.svg" width="40" height="40" alt="vite" />
 	<img src="./images/pixi.svg" width="40" height="40" alt="pixi" />
+  <img src="./images/wsj.svg" width="40" height="40" alt="wsj" />
+  <img src="./images/eth.svg" width="40" height="40" alt="eth" />
 </div>
