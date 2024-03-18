@@ -1,1 +1,1 @@
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=qduld&theme=transparent&hide_border=true&exclude_days=Fri)](https://git.io/streak-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=qduld&show_icons=true&theme=transparent)
