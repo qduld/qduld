@@ -24,4 +24,5 @@
 	<img src="./images/vite.svg" width="40" height="40" alt="vite" />
 	<img src="./images/pixi.svg" width="40" height="40" alt="pixi" />
   <img src="./images/solidity.svg" width="40" height="40" alt="solidity" />
+  <img src="./images/rust.svg" width="40" height="40" alt="rust" />
 </div>
