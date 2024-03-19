@@ -2,7 +2,7 @@
 
 ### I'm ** qduld **, a frontend developer from China.
 
-[<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=qduld&show_icons=true&theme=transparent">]
+<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=qduld&show_icons=true&theme=transparent">
 
 - 🌏 I’m come from China
 - 🛠 I’m currently working use canvas and next.js
