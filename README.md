@@ -11,7 +11,7 @@
 - 📝 I regulary write articles on my personal website
 - 📫 relation me 490334843@qq.com
 
-## 🚀 Language And Tools And
+## 🚀 Language And Tools
 
 <div align="center" >
 	<img src="./images/javascript.svg" width="40" height="40" alt="javascript" />
