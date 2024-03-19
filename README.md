@@ -22,7 +22,7 @@
 	<img src="./images/next.svg" width="40" height="40" alt="next" />
   <img src="./images/webpack.svg" width="40" height="40" alt="webpack" />
 	<img src="./images/vite.svg" width="40" height="40" alt="vite" />
-	<img src="./images/pixi.svg" width="40" height="40" alt="pixi" />
+	<a href="https://pixijs.com" target="_blank"><img src="./images/pixi.svg" width="40" height="40" alt="pixi" /></a>
   <img src="./images/solidity.svg" width="40" height="40" alt="solidity" />
   <img src="./images/rust.svg" width="40" height="40" alt="rust" />
 </div>
