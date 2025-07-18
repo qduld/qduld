@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning about Web3 and English
 - 🔭 Doing something about open source
 - 📝 I regulary write articles on my personal website
-- 📫 relation me 490334843@qq.com
+- 📫 relation me cncdfranklinzelo@gmail.com
 
 ## 🚀 Language And Tools
 
